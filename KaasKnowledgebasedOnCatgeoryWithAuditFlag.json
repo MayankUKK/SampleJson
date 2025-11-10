@@ -4,40 +4,6 @@
             {
                 "displayText": "Accounts",
                 "kaSetversion": null,
-                "knowledgeClientID": "GOXBAC15442",
-                "knowledgeData": " \n\n    {\"
-                Name\":\"Property, plant and equipment, gross\",\
-                "ReferenceNumber\":\"GOXBAC15442\",\
-                "Type\":\"A\",\
-                "AccountType\":\"A16AE66D-40D8-4751-89C7-218304C4A5D6\",\
-                "L2Type\":\"F7A2DECD-54FE-434C-BB5E-8D6F0CB1820B\",\
-                "Complexity\":\"false\",\
-                "RelatedParty\":\"false\",\
-                "VolumeofTransaction\":\"true\",
-                \"HasGuidance\":\"false\",\
-                "C\":\"true\",\
-                "E\":\"true\",\
-                "A\":\"true\",\
-                "V\":\"false\",
-                \"O\":\"true\",\
-                "P\":\"true\",\
-                "IsMappable\":\"false\",
-                \"Unique\":\"false\",
-                \"DrCrFlag\":\"8721D162-4B01-4E9C-BA07-D669F4C9C30D\",\
-                "DnAFlag\":\"true\",\
-                "DebitCreditIndicator\":\"Base\",\
-                "KaDispCol\":\"Property, plant and equipment, gross\",\
-                "SEW\":\"True\",\
-                "Bronze\":\"True\",\"Silver\":\"True\",\"Gold\":\"True\"}",
-                "knowledgeItemId": 1502870,
-                "locale": "en",
-                "relatedKnowledgeId": null,
-                "sequence": 1010.12,
-                "version": 15
-            },
-            {
-                "displayText": "Accounts",
-                "kaSetversion": null,
                 "knowledgeClientID": "GOXBAC15444",
                 "knowledgeData": " \n\n    {\"Name\":\"Property, plant and equipment under construction\",\"ReferenceNumber\":\"GOXBAC15444\",\"Type\":\"A\",\"AccountType\":\"A16AE66D-40D8-4751-89C7-218304C4A5D6\",\"L2Type\":\"F7A2DECD-54FE-434C-BB5E-8D6F0CB1820B\",\"Complexity\":\"false\",\"RelatedParty\":\"false\",\"VolumeofTransaction\":\"false\",\"HasGuidance\":\"false\",\"C\":\"true\",\"E\":\"true\",\"A\":\"true\",\"V\":\"false\",\"O\":\"true\",\"P\":\"true\",\"IsMappable\":\"false\",\"Unique\":\"false\",\"DrCrFlag\":\"8721D162-4B01-4E9C-BA07-D669F4C9C30D\",\"DnAFlag\":\"true\",\"DebitCreditIndicator\":\"Base\",\"KaDispCol\":\"Property, plant and equipment under construction\",\"SEW\":\"True\",\"Bronze\":\"True\",\"Silver\":\"True\",\"Gold\":\"True\"}",
                 "knowledgeItemId": 1502871,
@@ -3172,4 +3138,5 @@
             }
         ]
     }
+
 }
