@@ -14,16 +14,6 @@
             {
                 "displayText": "Accounts",
                 "kaSetversion": null,
-                "knowledgeClientID": "GOXBAC15444",
-                "knowledgeItemId": 1502871,
-                "locale": "en",
-                "relatedKnowledgeId": null,
-                "sequence": 1010.13,
-                "version": 15
-            },
-            {
-                "displayText": "Accounts",
-                "kaSetversion": null,
                 "knowledgeClientID": "GOXBAC15443",
                 "knowledgeItemId": 1502872,
                 "locale": "en",
@@ -12975,6 +12965,7 @@
     }
 
 }
+
 
 
 
